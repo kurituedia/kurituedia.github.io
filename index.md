@@ -19,10 +19,8 @@ layout: posts
 </p>
 
 ## 研究
-
+### バスロケーションシステム
 <https://chi-navi.net/Index>
-
 <br>
-
 <http://info.chi-navi.net>
 
