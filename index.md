@@ -22,6 +22,7 @@ layout: posts
 <p>
 ### バスロケーションシステム
 
-https://chi-navi.net/Index
-http://info.chi-navi.net/
+<a>https://chi-navi.net/Index</a>
+<br>
+<a>http://info.chi-navi.net/</a>
 </p>
