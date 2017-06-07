@@ -20,7 +20,7 @@ layout: posts
 
 ## 研究
 <p>
-<URL>https://chi-navi.net/Index</URL>
+<https://chi-navi.net/Index>
 <br>
-<URL>http://info.chi-navi.net/</URL>
+<http://info.chi-navi.net>
 </p>
