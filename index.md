@@ -19,8 +19,10 @@ layout: posts
 </p>
 
 ## 研究
-<p>
+
 <https://chi-navi.net/Index>
+
 <br>
+
 <http://info.chi-navi.net>
-</p>
+
