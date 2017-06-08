@@ -1,5 +1,6 @@
 ---
-layout: posts
+layout: default
+title: markdown Tests
 ---
 
 # マークダウン実験場
