@@ -24,7 +24,7 @@ layout: posts
 <http://info.chi-navi.net><br>
 北海道千歳市で千歳市役所、本学、株式会社ツヨシオカの3者による産学官連携での開発・運用を行なっている<br>
 
-![システム概要図](http://kurituedia.github.io/images/chi_navi.png)
+![システム概要図](/images/chi_navi.png)
 
 
 
