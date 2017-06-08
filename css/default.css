@@ -1,11 +1,12 @@
-.h1{
+h1{
 	color:red
 }
 
-.h2{
+h2{
 	text-decoration: underline;
 }
 
-.img{
-	border-image: 2px;
+img{
+	border: 1px solid #eee;
+	max-width: 100%;
 }
