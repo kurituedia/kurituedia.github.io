@@ -22,7 +22,7 @@ title: markdown Tests
 ## 研究
 ### バスロケーションシステム
 <https://chi-navi.net/Index><br>
-<http://info.chi-navi.net><br>
+<http://info.chi-navi.net><br><br>
 北海道千歳市で千歳市役所、本学、株式会社ツヨシオカの3者による産学官連携での開発・運用を行なっている<br>
 
 ![システム概要図](/images/chi_navi.png)
