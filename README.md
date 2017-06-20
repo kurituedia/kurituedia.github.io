@@ -21,5 +21,6 @@
 北海道千歳市で千歳市役所、本学、株式会社ツヨシオカの3者による産学官連携での開発・運用を行なっている<br>
 
 ### 学会発表
+
 第55回土木計画学研究発表会（春大会)
 <https://drive.google.com/open?id=0B9YP0v8hwijGVWk2U0g2ZW9jUFZNbU9WV0JfVDBheG1qaU8w><br>
