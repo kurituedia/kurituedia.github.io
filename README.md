@@ -17,9 +17,10 @@
 <https://chi-navi.net/Index><br>
 <http://info.chi-navi.net><br><br>
 北海道千歳市で千歳市役所、本学、株式会社ツヨシオカの3者による産学官連携での開発・運用を行なっている<br>
-システム概要図
+システム概要図<br>
 <https://drive.google.com/file/d/0B9YP0v8hwijGOTQ3cVFxSmk0TGc/view?usp=sharing>
 
 ### 学会発表
-第55回土木計画学研究発表会（春大会)
+第55回土木計画学研究発表会（春大会)<br>
+予稿<br>
 <https://drive.google.com/open?id=0B9YP0v8hwijGVWk2U0g2ZW9jUFZNbU9WV0JfVDBheG1qaU8w><br>
