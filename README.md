@@ -1,8 +1,9 @@
+# マークダウン実験場
+
 ## 自己紹介
 <p>
 千歳科学技術大学大学院 光科学研究科修士1年 小松川石田研究室所属
 </p>
-
 ## プログラミング遍歴
 <p>
 大学1年次の講義で初めてプログラミングに触れる(C言語). <br>
@@ -17,12 +18,23 @@
 ### バスロケーションシステム ち〜なび
 <https://chi-navi.net/Index><br>
 <http://info.chi-navi.net><br><br>
-北海道千歳市で千歳市役所、本学、株式会社ツヨシオカの3者による産学官連携での開発・運用を行なっている<br>
+北海道千歳市で千歳市役所、本学、株式会社ツヨシオカの3者による産学官連携での開発・運用を行なっているバスロケーションシステム<br>
+
 システム概要図<br>
 <https://drive.google.com/file/d/0B9YP0v8hwijGOTQ3cVFxSmk0TGc/view?usp=sharing>
 
 ### 学会発表
 第55回土木計画学研究発表会（春大会)<br>
+<http://www.jsce-ip.com/conference/index.html?id=25><br>
 予稿<br>
 <https://drive.google.com/open?id=0B9YP0v8hwijGVWk2U0g2ZW9jUFZNbU9WV0JfVDBheG1qaU8w><br>
+発表資料<br>
+<https://drive.google.com/open?id=0B9YP0v8hwijGY2FFUUJoM21ORzQ><br>
 
+## セミナー・勉強会
+Sapporo tech bar #10<br>
+<http://www.db-tech-showcase.com/events-seminars/db-tech-salon/20170512_sapporo_tech_bar>
+発表資料<br>
+<https://drive.google.com/open?id=0B9YP0v8hwijGaEMxQ3E2T2FPTVU>
+
+バスロケの基本的な仕組みや研究について話してきました.
