@@ -38,3 +38,4 @@ Sapporo tech bar #10<br>
 <https://drive.google.com/open?id=0B9YP0v8hwijGaEMxQ3E2T2FPTVU>
 
 バスロケの基本的な仕組みや研究について話してきました.
+
